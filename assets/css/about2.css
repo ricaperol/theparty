@@ -1,0 +1,47 @@
+
+#landing-about{
+	font-family: 'font1';
+	color: #F33C66;
+	font-size: 7em;
+	padding-top: 10vh;
+	letter-spacing: 5px;
+}
+
+.jumbotron{
+	background-image: url(../images/sisters.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	border-radius: 0;
+}
+
+.navbar{
+	background-color: #F33C66;
+}
+
+@font-face{
+	font-family: 'font1';
+	src: url(../font/glitter.otf);
+}
+
+
+.fadeIn{
+	animation-duration: 5s;
+}
+
+#mission{
+	height: 100%;
+	background-color: #141414;
+	color: #f2f2f2;
+}
+
+.about-tags{
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#vision{
+	height: 100%;
+	background-color: #f2f2f2;
+	color: #141414;
+}
