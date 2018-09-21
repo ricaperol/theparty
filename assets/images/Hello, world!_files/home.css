@@ -6,22 +6,13 @@ h1 {
 	color: black;
 }
 
-.myframe{
-	width: 100%;
-	height: 500px;
-}
-
-
 /*home2aiza*/
-.home-nav {
+.home-navbar{
 	height: 100px;
 	width: 800px;
 	border: 2px solid white;
 	background-color: red;
 	border-radius: 50px;
-}
-
-.container{
 	position: fixed;
 	z-index: 1;
 }
